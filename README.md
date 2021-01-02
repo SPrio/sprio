@@ -1,4 +1,4 @@
-### Hi there I am Supriyo Mahanta👋
+### Hi there, I am Supriyo Mahanta👋
 
 <!--
 **SPrio/sprio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

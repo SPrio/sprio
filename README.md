@@ -2,6 +2,8 @@
 
 <i> Welcome to my Github Repo 😀 </i>
 
+🔭 I’m currently working on Elixir, Phoenix, Flutter, Ruby on Rails
+
 <!--
 **SPrio/sprio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

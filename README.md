@@ -1,4 +1,4 @@
-### Hi there, I am Supriyo Mahanta👋
+# Hi there, I am Supriyo Mahanta👋
 
 <i> Welcome to my Github Repo 😀 </i>
 

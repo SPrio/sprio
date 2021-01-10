@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 - 👨‍💻 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 📱 Android Developer
 - 📚 NLP Developer and Researcher
-- 💼 worked on [<img src="https://avatars0.githubusercontent.com/u/357558?s=280&v=4" height="30em" align="center" alt="KT" title="KT"/>](https://kreeti.com) Kreeti Technologies
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 B.Tech 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Engineering & Management, Jaipur, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸01𝟻
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Ubuntu <img src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" height="30em" align="center" alt="Ubuntu Logo" title="Ubuntu Logo"/> and Windows <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfEsAa5bNkI_mmcu6HaM9zYHOnpj0D31Bdw&usqp=CAU" height="30em" align="center" alt="Windows Logo" title="Windows Logo"/>
+- 💼 worked at [<img src="https://avatars0.githubusercontent.com/u/357558?s=280&v=4" height="30em" align="center" alt="KT" title="KT"/>](https://kreeti.com) Kreeti Technologies
+- 🎓 𝚂𝚝𝚞𝚍ied B.Tech 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Engineering & Management, Jaipur, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸01𝟻
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Ubuntu <img src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" height="30em" align="center" alt="Ubuntu Logo" title="Ubuntu Logo"/> (also) on Windows <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfEsAa5bNkI_mmcu6HaM9zYHOnpj0D31Bdw&usqp=CAU" height="30em" align="center" alt="Windows Logo" title="Windows Logo"/>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Elixir** 𝚊𝚗𝚍 **Phoenix**.

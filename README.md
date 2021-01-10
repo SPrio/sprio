@@ -1,4 +1,4 @@
-[<img src="intro_speech.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="intro_speech.gif" alt="👋 Hi there! I'm (Supriyo)|https://sprio.github.io)" title="👋 Hi there! I'm (Supriyo)|https://sprio.github.io)"/>](https://sprio.github.io/)
 
 <p style="text-align:center;"> Welcome to my Github Repo 😀 </p>
 

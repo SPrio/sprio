@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 - btw I use Ubuntu <img src="https://e7.pngegg.com/pngimages/720/729/png-clipart-omg-ubuntu-installation-linux-feather-logo-design-computer-logo.png" height="30em" align="center" alt="Ubuntu Logo" title="Ubuntu Logo"/> (also) on Windows <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfEsAa5bNkI_mmcu6HaM9zYHOnpj0D31Bdw&usqp=CAU" height="30em" align="center" alt="Windows Logo" title="Windows Logo"/>
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Elixir** 𝚊𝚗𝚍 **Phoenix**.
-- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 **ReactJS**
+- 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Elixir**, **Phoenix**, **ReactJS**, **Ruby on Rails**, **Android**, **Flutter**, **Python**
+- 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 **TypeScript**
 <!-- - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159) -->

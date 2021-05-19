@@ -44,10 +44,9 @@ Here are some ideas to get you started:
 - 👨‍💻 Full-Stack Web developer
 - 📱  Android Developer
 - 📚 NLP Developer and Researcher
-<!-- - 💼 Worked at [<img src="https://avatars0.githubusercontent.com/u/357558?s=280&v=4" height="30em" align="center" alt="KT" title="KT"/>](https://kreeti.com) Kreeti Technologies -->
 - 🎓 Studied B.Tech 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 at University of Engineering & Management, Jaipur
 - btw I use Ubuntu <img src="https://assets.ubuntu.com/v1/1be42010-cof_orange_hex.jpg" height="30em" align="center" alt="Ubuntu Logo" title="Ubuntu Logo"/> (also) on Windows <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXfEsAa5bNkI_mmcu6HaM9zYHOnpj0D31Bdw&usqp=CAU" height="30em" align="center" alt="Windows Logo" title="Windows Logo"/>
-
+<!-- - 💼 Worked at [<img src="https://avatars0.githubusercontent.com/u/357558?s=280&v=4" height="30em" align="center" alt="KT" title="KT"/>](https://kreeti.com) Kreeti Technologies -->
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Elixir**, **Phoenix**, **ReactJS**, **Ruby on Rails**, **Android**, **Flutter**, **Python**
 - 🎯 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 𝚠𝚘𝚛𝚔 𝚘𝚗 **TypeScript**
